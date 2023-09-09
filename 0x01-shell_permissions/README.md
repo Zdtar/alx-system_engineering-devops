@@ -1,1 +1,1 @@
-script that changes the owner of the file
+script that will play the StarWars IV episode
