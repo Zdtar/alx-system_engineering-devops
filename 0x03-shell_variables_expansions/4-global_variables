@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv
+for var in $(env); do echo "$var"; done
